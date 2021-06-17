@@ -1,5 +1,7 @@
 # How to share reusable code and functionality between your robot projects using Git submodules?
 
+![How to share reusable code](header-image.png)
+
 After developing several robots, you might find you need the exact same functionality (custom keywords and libraries) in many of them. Instead of copying & pasting the same code into each robot project, isolating and sharing the common code between the robots makes sense!
 
 ## A separate Git repository for the shared code
